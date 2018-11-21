@@ -1,3 +1,2 @@
-# INDEX
-
 # Size
+[FreeSize](/FreeSize.md)
